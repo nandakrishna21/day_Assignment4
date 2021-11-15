@@ -1,0 +1,30 @@
+#nk {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAAAdVBMVEUAAAD///8EBAT8/PwpKSkcHBy1tbVRUVHLy8vT09M5OTmUlJSFhYV4eHheXl7BwcFERET39/fy8vLs7OwPDw8xMTHm5ubc3Nxra2uHh4ecnJwRERGrq6uioqLW1tZXV1ePj480NDQiIiJBQUG6urp1dXXExMQwVWYIAAAD5klEQVR4nO3daVPiQBSF4TYkrGEJO4gDivL/f+JIOZaWS9++nb7JGT3vdzt5DGmSDgXu5ofk2t6BVBGCFiFoWUI6m+6oHG8nvd5kOy5H3U3HcGNGkGpa9vLMfSjLe+XUSGMB6e9my4+Gt5azXd9go8khmzL/HvFaXm5SbzctpNoPZcVL532VdNMpIfNdEcq4VpzmCTeeDrIY32oY127LRbLNp4J0Tp7z20MZpZrEEkEuqxjGtdUlzR4kgSwmsYxrkySvrxSQqeoc/1wxTbAT9SGdcT3Gc1lZ/0ypDVmfazueO6/bhgxqvqxeKwbtQqZRk+5XLWueKPUgh08XuPFlh/Ygo3SMa/u2IHdpHc7dtQPpJnxdvZR124BMkzueJfFnfDRkkGy+et/yT9OQecB9YEx57D1KLORo43Du2Cwk8cT7vlGTkL7Bif5aFrfGEgXpRN9GhbSKuhSOgpwsHc6dmoKsTWbet5Yx1/QxkJ6tw7leM5BHa4dzj41AghcT4xs2AdEekGI1HK6095H6Q6KHKA7I8jga/FvhrQajo2KOONtDwg/I7PBhmbo6zIL/WH0ZrIaETlm9L9+g+8F/bg1Zh12cPHx7i9R9CBog0y4/aiGnoN04ei7G52EXztq3dy0k6DZE2IldyBgrW0g/YBcycQ3hLuT1qbwIVkKeAvYgYC1kHzDM2BQScP2+CxmnlMe5t4Qs5O0HzpsB7yi6eUsHOYhbLwI3v5AfOOqWUHWQrbj14MVCeZlyawgRJ1/FZeu9NFZuB6nEaVOx5tmVxspU9+4qyCDpP1E8vKpVRxVEPNdV1xXiG7zqbFdBxNlftWqwlkYrzSDS43Tl9ZH02pqYQaQHuE86iDSZz8wg0oypfOIkXXGpliBUEOm1oPxYyUUYTjUHqiDSWohyhVA62wsziLQMonxIMxeGW5pBhA075TJ6RxqvNYjOkXY8QggxGo8QQozGI4QQo/EIIcRoPEIIMRqPkP8L0j8bflROVTYTlmi8kJQffa+f/6GiD3KBcghLqB5IFfYZhQbzHRMPxPAjsbF5zhMPRHw21nyeZW0PBOwMuZZFQdre668iBC1C0CIELULQIgQtQtAiBC1C0CIELULQIgQtQtAiBC1C0CIELULQIgQtQtAiBC1C0CIELULQIgQtQtAiBC1C0CIELULQIgQtQtAiBC1C0CIELULQIgQtQtAiBC1C0CIELULQIgQtQtAiBC1C0CIELULQIgQtQtAiBK3fDfkxX6bXwO/navP8Ip4HMoU7JA+en5zxQG4Oxj+WrW3i+2U/H+Rm/QTzdaZZvh34dlX3xcXIEYIWIWgRgtaPgfwF+fZbQ+0DNHAAAAAASUVORK5CYII=);
+    margin: 0%;
+    padding: 150px;
+    background-color: rgba(118, 243, 86, 0.829);
+}
+
+.krish {
+    background-color: rgba(31, 117, 247, 0.89);
+    text-align: center;
+    margin: 300px;
+    margin-top: 60px;
+}
+
+label {
+    text-align: left;
+}
+
+input {
+    border-radius: 10px;
+}
+
+h1,
+button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button {
+    background-color: rgba(192, 112, 112, 0.863);
+}
